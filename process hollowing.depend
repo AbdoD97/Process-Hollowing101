@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1636581143 source:d:\re thingies\c++ tests\process hollowing\main.cpp
+	<iostream>
+	<windows.h>
+	<tlhelp32.h>
+	<winternl.h>
+	<ntstatus.h>
+
+1638230166 source:d:\rethingies\c++tests\processhollowing\main.cpp
+	<windows.h>
+	<iostream>
+	<tlhelp32.h>
+	<winternl.h>
+	<ntstatus.h>
+	<cmath>
+
